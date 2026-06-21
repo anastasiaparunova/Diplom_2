@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+.allure/
+allure-results/
+allure-report/
+*.log
+.DS_Store
+driver/
+chromedriver*
+geckodriver*
